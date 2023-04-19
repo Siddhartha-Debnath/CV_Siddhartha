@@ -1,0 +1,230 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    line-height: 2;
+}
+hr{
+    border: dotted #9c7eee 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 50px auto;
+}
+table {
+    margin: auto;
+    text-align: center;
+}
+/* Top Container Section */
+a {
+    text-decoration-line: none;
+    font-family: 'Montserrat', sans-serif;
+}
+a:hover{
+    color: #167003;
+}
+
+.about {
+    position: absolute;
+    right: 180px;
+    top: 10px;
+}
+
+.works {
+    position: absolute;
+    right: 100px;
+    top: 10px;
+}
+
+.contact {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+.top_container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+h1 {
+    margin-top: 3rem;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.3rem;
+}
+
+.i_am_sid {
+    margin-bottom: 0;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.intro_text {
+    margin-top: 0;
+    font-size: 1.7rem;
+}
+
+.hat_icon_image_class {
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+
+.top_container_bg_image_class {
+    width: 50%;
+    height: 50%;
+}
+
+/* Middle Container Selection */
+.middle_container {
+    padding-top: 4rem;
+    background-color: beige;
+}
+
+.detail_text {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 0;
+    font-size: 1rem;
+}
+
+/*Personal Details*/
+.personal_detail {
+    position: relative;
+    padding-top: 2rem;
+    padding-left: auto;
+    padding-right: auto;
+    padding-bottom: 5rem;
+    background-color: beige;
+}
+
+.p_d {
+    text-decoration: underline;
+}
+
+.short_icons {
+    width: 25px;
+    height: 25px;
+}
+
+.td{
+    padding-right: 2.5rem;
+    padding-top: 10px;
+}
+td{
+    padding: 2px;
+}
+.skills_container{
+    position: relative;
+    padding-top: 2rem;
+    padding-left: auto;
+    padding-right: auto;
+    padding-bottom: 5rem;
+    background-color: #b4f3e7;
+    text-align: justify;
+}
+.skills{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.computer_skills{
+    padding-left: 10rem;
+    padding-right: 10rem;
+    /* text-align: center; */
+}
+
+.medium_icon{
+    width: 2.5rem;
+    height: 2.5rem;
+}
+.nested_list{
+    list-style-type: none;
+}
+.checkout{
+    font-size: 1.5rem;
+}
+
+/*Contact Me Section*/
+.bottom_container {
+    padding-top: 2rem;
+    padding-left: auto;
+    padding-right: auto;
+    padding-bottom: 1rem;
+    background-color: beige;
+}
+.bottom{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+/*
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+  */
+  .copy_write{
+    font-size: 0.7rem;
+  }
+
+  /* Gif Section*/
+  .hello{
+    padding-top: 1rem;
+    height: 2rem;
+    width: inherit;
+}
+
+  .gif_interest{
+    height: 1.8rem;
+    width: inherit;
+  }
+  .gif{
+    height: 2.8rem;
+    width: inherit;
+    
+  }
+  .gif_education{
+    height: 3rem;
+    width: inherit;
+  }
+  .gif_detail{
+    height: 1.8rem;
+    width: inherit;
+  }
+  .gif_get_in_touch{
+    height: 3rem;
+    width: inherit;
+  }

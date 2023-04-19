@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: beige;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding:  4px;
+  }
+  
+  /* Create two equal columns that sits next to each other */
+  .column {
+    flex: 50%;
+    padding: 0 4px;
+    margin-bottom: 1rem;
+  }
+  
+  .column img {
+    margin-top: 8px;
+    vertical-align: middle;
+  }
+  .big_pic{
+    width: 50%;
+    height: 50%;
+    padding-bottom: 1rem;
+
+  }
